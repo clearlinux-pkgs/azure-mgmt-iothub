@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-iothub
 Version  : 0.11.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/f2/f0/9a0de09c52ea9fdfed22ca8dab75880d76a4786a150abbda1641e97be061/azure-mgmt-iothub-0.11.0.zip
 Source0  : https://files.pythonhosted.org/packages/f2/f0/9a0de09c52ea9fdfed22ca8dab75880d76a4786a150abbda1641e97be061/azure-mgmt-iothub-0.11.0.zip
 Summary  : Microsoft Azure IoTHub Management Client Library for Python
