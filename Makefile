@@ -1,5 +1,5 @@
 PKG_NAME := azure-mgmt-iothub
-URL = https://files.pythonhosted.org/packages/f2/f0/9a0de09c52ea9fdfed22ca8dab75880d76a4786a150abbda1641e97be061/azure-mgmt-iothub-0.11.0.zip
+URL = https://files.pythonhosted.org/packages/28/d2/6868d49c45ddc6bdd8b85d45044ce7ba7373d4524981413c806aada18955/azure-mgmt-iothub-0.12.0.zip
 ARCHIVES = 
 
 include ../common/Makefile.common
